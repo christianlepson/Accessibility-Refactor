@@ -1,0 +1,86 @@
+/* Survey page styles */
+
+.photo{
+  width: 60%;
+  padding: 10px;
+}
+
+form {
+  margin: 0 auto;
+  text-align: left;
+  display: inline-block;
+}
+
+legend {
+  font-size: 1.15em;
+  font-weight: bold;
+}
+
+/* form p {
+  margin-bottom: 60px;
+} */
+
+h2 {
+  font-weight: bold;
+  font-size: 1.07em;
+  color: #781125;
+}
+
+label {
+  font-size: 1.04em;
+}
+
+input:focus,
+select:focus,
+textarea:focus,
+button:focus { 
+    background-color: #EBFFEE;
+    -webkit-box-shadow: 0px 0px 5px 1px rgba(0,0,0,0.6);
+    -moz-box-shadow: 0px 0px 5px 1px rgba(0,0,0,0.6);
+    box-shadow: 0px 0px 5px 1px rgba(0,0,0,0.6);
+}
+
+.container{
+  text-align: center;
+}
+
+.survey textarea {
+  height: 75px;
+  width: 200px;
+}
+
+.newsletter label {
+  margin-right: 20px;
+}
+
+.newsletter input[type="text"],
+.newsletter input[type="email"] {
+  font-size: 1.2em;
+  height: 30px;
+  width: 250px;
+  border-radius: 10px;
+  float: right;
+    padding: 5px;
+}
+
+
+.newsletter button[type="submit"] {
+  height: 50px;
+  width: 100%;
+  border-radius: 10px;
+  background-color: #781125;
+  color: #fff;
+  font-weight: bold;
+  font-size: 1.2em;
+}
+
+#name-hint {
+  font-size: .8em;
+}
+
+/* Styles for larger screens */
+@media screen and (min-width: 840px) {
+  .photo{
+    width: 40%;
+  }
+}

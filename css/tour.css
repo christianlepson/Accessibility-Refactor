@@ -1,0 +1,51 @@
+/* Tour page styles */
+
+#tour-table {
+	width: 100%;
+	margin: 30px auto;
+	font-family: 'Open Sans', sans-serif;
+	border-collapse: collapse;
+	border: solid black 1px;
+	text-align: center;
+	vertical-align: middle;
+}
+
+#tour-table th {
+	font-weight: bold;
+	font-size: 1.05em;
+}
+
+#tour-table thead th {
+	font-size: 1.2em;
+}
+
+#tour-table td,
+#tour-table tbody th {
+	border-top: solid black 1px;
+}
+
+#tour-table th,
+#tour-table td {
+	padding: 15px 10px;
+}
+
+#tour-table tbody tr:nth-child(odd) {
+	background-color: #DAFFC3;
+}
+
+#tour-table caption {
+	font-size: 1.2em;
+  	color: #781125;
+  	margin: 10px auto;
+}
+
+.heading {
+  display: inline-block;
+  margin: 0;
+}
+
+.pick{
+  width: 40px;
+  height: 0%;
+  padding: 10px;
+}
