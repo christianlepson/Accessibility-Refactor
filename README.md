@@ -6,6 +6,6 @@ This project involved taking a set of interlinked wehpages that suffered from va
 - Adjusting color scheme and font sizing for higher contrast for vision-impaired users
 - Adding descriptive alt tags to images when necessary
 
-(Click here to view the demo)[https://christinlepson.github.io/Accessibility-Refactor/index.html]
+[Click here to view the demo](https://christinlepson.github.io/Accessibility-Refactor/index.html)
 
 ![Accessibility project preview](https://raw.githubusercontent.com/christinlepson/Accessibility-Refactor/master/img/github-preview.jpg)
