@@ -3,7 +3,7 @@ This project involved taking a set of interlinked wehpages that suffered from va
 
 - Adding ARIA landmarks
 - Properly labeling form elements
-- Adjusting color scheme and font sizing for higher contrast for vision-impaired users
+- Adjusting color scheme (for higher contrast) and font sizing for vision-impaired users
 - Adding descriptive alt tags to images when necessary
 
 [Click here to view the demo](https://christinlepson.github.io/Accessibility-Refactor/index.html)
